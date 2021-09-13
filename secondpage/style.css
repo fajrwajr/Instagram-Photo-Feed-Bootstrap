@@ -1,0 +1,42 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.fa-ellipsis-v {
+  float: right;
+}
+
+
+.fa-square {
+  color: lightgrey;
+}
+
+.fa-th {
+  color: lightgrey;
+}
+
+.fa {
+   font-size: 6px;
+ }
+
+
+strong {
+  font-family: 'Charm', cursive;
+  color: grey;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+div.post .post-header div:first-child {
+    display: inline-block;
+    width: 80%;
+}
+
+div.post .post-header div:last-child {
+    display: inline-block;
+    width: 18%;
+}
+

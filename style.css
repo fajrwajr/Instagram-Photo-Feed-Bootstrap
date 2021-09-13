@@ -1,0 +1,20 @@
+strong {
+    font-family: 'Charm', cursive;
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  
+  .fa-square {
+    color: lightgrey;
+  }
+  
+  .fa-th {
+    color: lightgrey;
+  }
+  
+  .fa {
+     font-size: 6px;
+   }
+  
